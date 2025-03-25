@@ -1,0 +1,50 @@
+body {
+	background-image: url(https://images.unsplash.com/photo-1588097257570-59b6f7360bfb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YWVzdGhldGljJTIwcGlua3xlbnwwfHwwfHx8MA%3D%3D);
+	text-align: left;
+	font-family: "Sofadi One", serif;
+  	font-weight: 100;
+  	font-style: normal;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: left;
+}
+
+.w3-container {
+	margin-top: 1%;
+	margin-left: 25%;
+	margin-right: 25% ;
+	margin-bottom:1%;
+	background-color: #FFA38F;
+	border-style: solid;
+	border-color: #B82132;
+	padding: 1%;
+}
+
+button {
+	margin-top:10px;
+	margin-bottom:10px;
+	width:100%;
+}
+
+form {
+	text-size: 20px;
+}
+
+.shadow-box {
+    width: 40%;
+    height: 60%;
+    background-color: #f0f0f0; 
+    margin: 20px auto; 
+    padding: 20px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); 
+    border-radius: 10px; 
+}
+
+form-label {
+	justify-content:start;
+}
